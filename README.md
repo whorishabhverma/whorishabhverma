@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 <h1 align="center">Hi 👋, I'm RISHABH VERMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.canva.com/design/DAGUZxD_V5c/lMy43wLomUCz-O8GZ9qYNg/edit?utm_content=DAGUZxD_V5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whorishabhverma&label=Profile%20views&color=0e75b6&style=flat" alt="whorishabhverma" /> </p>
 
